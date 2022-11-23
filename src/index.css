@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+}
+.mp40 {
+  border: 2px rgb(84, 84, 84) solid;
+}
+.AI {
+  align-items: center;
+}
+.rf {
+  border-radius: 50%;
+}
